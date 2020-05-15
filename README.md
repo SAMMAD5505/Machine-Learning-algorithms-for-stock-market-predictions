@@ -1,4 +1,5 @@
 # Machine-Learning-algorithms-for-stock-market-predictions
+For figures please refer uploaded documentation file
 
 INTRODUCTION
 
